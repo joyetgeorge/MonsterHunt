@@ -41,6 +41,7 @@ h1{
   font-family: 'Bigelow Rules', cursive;
   font-size: 80px;
   color: #c0edff;
+  letter-spacing: 3px;
 }
 
 body{
@@ -58,4 +59,10 @@ body::-webkit-scrollbar-track {
 body::-webkit-scrollbar-thumb {
   background-color: rgb(133, 227, 255);    /* color of the scroll thumb */
   border-radius: 20px;       /* roundness of the scroll thumb */ /* creates padding around scroll thumb */
+}
+
+@media only screen and (max-width: 600px) {
+    h1{
+        font-size: 50px;
+    }
 }
