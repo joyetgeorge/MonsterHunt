@@ -1,6 +1,6 @@
 # MonsterHunt
 
-This is a simple **React** project, implimenting key React concepts.
+This is a simple React project, implementing key React concepts.
 
 
 ##### App is deployed in GitHub pages [Visit](http://joyetgeorge.github.io/MonsterHunt)
